@@ -1,0 +1,92 @@
+[
+  {
+    "slug": "general-relativity",
+    "name": "General Relativity",
+    "epithet": "the smooth-spacetime theory of the big — gravity as curvature",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦General Relativity:QGR:a7756e⟧"
+  },
+  {
+    "slug": "quantum-mechanics",
+    "name": "Quantum Mechanics",
+    "epithet": "the grainy, quantized theory of the small — packets and probability",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Quantum Mechanics:QGR:96797e⟧"
+  },
+  {
+    "slug": "the-graviton",
+    "name": "The Graviton",
+    "epithet": "gravity's hypothetical force-particle — massless, spin-2, never detected",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Graviton:QGR:0b55e1⟧"
+  },
+  {
+    "slug": "the-planck-scale",
+    "name": "The Planck Scale",
+    "epithet": "the smallest length (~1.6e-35 m) and the energy (~1e19 GeV) where quantum gravity lives",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Planck Scale:QGR:53f86e⟧"
+  },
+  {
+    "slug": "spacetime-foam",
+    "name": "Spacetime Foam",
+    "epithet": "Wheeler's churning quantum vacuum — smoothness dissolving at the Planck scale",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Spacetime Foam:QGR:cf1eea⟧"
+  },
+  {
+    "slug": "the-singularity",
+    "name": "The Singularity",
+    "epithet": "where General Relativity predicts infinity — the heart of a black hole; the map's edge",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Singularity:QGR:f944e0⟧"
+  },
+  {
+    "slug": "the-first-instant",
+    "name": "The First Instant",
+    "epithet": "the Big Bang at quantum size — the other place both theories must meet",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The First Instant:QGR:82185e⟧"
+  },
+  {
+    "slug": "string-theory",
+    "name": "String Theory",
+    "epithet": "vibrating strings in ~11 dimensions; the graviton emerges, but ~1e500 solutions and no evidence",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦String Theory:QGR:f22c3d⟧"
+  },
+  {
+    "slug": "loop-quantum-gravity",
+    "name": "Loop Quantum Gravity",
+    "epithet": "spacetime quantized directly — space woven from discrete loops; elegant, unconfirmed",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Loop Quantum Gravity:QGR:d39868⟧"
+  },
+  {
+    "slug": "the-renormalization-wall",
+    "name": "The Renormalization Wall",
+    "epithet": "why the naive quantization of gravity fails — uncancellable infinities the other forces survived",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Renormalization Wall:QGR:4df722⟧"
+  }
+]
