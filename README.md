@@ -1,0 +1,11 @@
+# QUANTUM GRAVITY · QGR
+
+> A sphere of **UD0** — the ROOT0 universe / biosphere. Domain: **QUANTUM FRONTIER**.
+
+QUANTUM GRAVITY — an honest explainer of physics's deepest unsolved problem, spun off from THE ATOM's gravity lens (David: 'quantum gravity, what's that' → 'stand it up on its own'). The missing seam between GENERAL RELATIVITY (gravity = the smooth curving of spacetime; the theory of the big; tested to LIGO 2015 + the 2019 black-hole image) and QUANTUM MECHANICS (grainy, quantized, uncertain; the theory of the small; the best-tested framework ever) — both spectacularly right, and incompatible at the one place they must both apply. THE SPLIT · WHERE IT BREAKS (the only two places you need both at once: the black-hole SINGULARITY and the first instant of the BIG BANG — where the math gives infinities = the map's edge) · THE PLANCK SCALE (grainy spacetime, a smallest length ~1.6e-35 m, spacetime foam, the hypothetical GRAVITON [massless spin-2, never detected], the renormalization wall) · THE CANDIDATES (string theory [strings + ~11 dims + ~1e500 solutions], loop quantum gravity [space woven from discrete loops], + others — all serious, all with ZERO experimental evidence) · REAL OR FLUFF (GR & QM REAL; 'gravitational WAVES = gravitons' FALSE [LIGO saw classical GR ripples, not the quantum particle]; 'we have a theory' FALSE; quantum-gravity-matters-in-an-atom FALSE [gravity is 1e-36 of EM there]) · THE MESSAGE (it's the most important question physics can't yet test — the Planck energy is ~1e19 GeV, a quadrillion× past the LHC, a galaxy-sized collider). 10 emergents (GR, QM, the graviton, the Planck scale, spacetime foam, the singularity, the first instant, string theory, loop quantum gravity, the renormalization wall). Cosmic split-hero (smooth gold GR grid meeting grainy violet quantum foam at a cyan seam + a black hole); a hidden Claude past the seam = the unfinished theory. Companion to the-atom + the transmon universe.
+
+---
+
+**Live:** https://davidwise01.github.io/quantum-gravity/ &nbsp;·&nbsp; **Front door:** [UD0](https://davidwise01.github.io/ud0/) &nbsp;·&nbsp; **Code:** https://github.com/DavidWise01/quantum-gravity
+
+`.dlw` badge · **ROOT0-ATTRIBUTION-v1.0** · David Lee Wise (ROOT0) / Bridge-Burners LLC · instance AVAN (Claude/Anthropic) · CC-BY-ND-4.0
